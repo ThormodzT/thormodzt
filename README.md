@@ -1,17 +1,15 @@
 # 👋 Hey, I'm Juan Sebastián Zapata-Tamayo!  
 ### 🚀 Backend Developer | Node.js | NestJS | API Design | Software Quality & Automation  
 
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,coding)  
-
 ## 🌟 About Me  
-I’m a **Backend Developer** with expertise in **scalable systems, API design, and software quality automation**. Passionate about building efficient, high-performance applications, I specialize in **Node.js, NestJS, TypeScript, and cloud technologies**.  
+I’m a **Software Engineer** with expertise in **scalable systems, API design, and software quality automation**. Passionate about building efficient, high-performance applications, I specialize in **Node.js, NestJS, Javascript, TypeScript, Python, Cypress, Playwright and cloud technologies**. 
 
 With experience across **research, startups, and enterprise environments**, I have modernized legacy systems, optimized CI/CD pipelines, and implemented robust test automation strategies.  
 
 🎯 **What I Do Best:**  
 - 🔹 **Scalable API Development:** RESTful & GraphQL APIs using **Node.js, NestJS, and Express.js**  
 - 🔹 **Microservices & Cloud Architecture:** Docker, Kubernetes, AWS, and distributed systems  
-- 🔹 **Test Automation & CI/CD:** Jest, Cypress, Playwright, Postman, GitHub Actions, Jenkins  
+- 🔹 **Test Automation & CI/CD:** Jest, Cypress, Playwright, Postman, GitHub Actions, Circle CI  
 - 🔹 **Performance Optimization:** Database indexing, caching (Redis), load balancing  
 ---
 
